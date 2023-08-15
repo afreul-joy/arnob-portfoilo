@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "https://afreul-joy.github.io/Arnob-portfolio",
+  "homepage": "https://afreul-joy.github.io/arnob-portfoilo",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
