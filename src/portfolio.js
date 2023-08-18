@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Experienced digital marketer adept at crafting strategic online campaigns that drive brand visibility, engagement, and conversion. Proficient in Google Ads , Facebook marketing, SEO, SEM, social media, and analytics, with a track record of optimizing digital presence. Passionate about staying ahead in the ever-evolving digital landscape to deliver impactful results and foster business growth.    ",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/1gO5D2TVHobF2K7KtxjvnKZ-jhaBFPr-a/view",
   portfolio_repository: "https://api.whatsapp.com/send?phone=8801615263700 ",
   githubProfile: "https://api.whatsapp.com/send?phone=8801615263700 ",
 };
@@ -405,17 +405,18 @@ const degrees = {
       website_link: "https://daffodilvarsity.edu.bd/",
     },
     {
-      title: "Digital Marketing Certificate",
-      subtitle: "Expert In Marketing",
+      title: "The Complete Digital Marketing Guide - 24 Courses in 1",
+      subtitle: "Digital Marketing & Social Media, ChatGPT, Prompt Engineering, Google Ads, Facebook, SEO, WordPress, Instagram, YouTube.",
       logo_path: "iu_logo.png",
       alt_name: "CoderTrust",
-      duration: "2021 - 2023",
+      duration: "2021 - 2025",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ Unlock the secrets of successful digital marketing strategies with our comprehensive Digital Marketing Certificate program.",
+        "⚡ Learn to drive online growth, engage target audiences, and optimize conversion rates through proven techniques.",
+        "⚡ Gain hands-on experience in SEO, SEM, social media marketing, content creation, email campaigns, and more.",
+        "⚡ Join our vibrant community of marketers, and get ready to excel in the dynamic world of digital advertising.",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://www.udemy.com/",
     },
   ],
 };
