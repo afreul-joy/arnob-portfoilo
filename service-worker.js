@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/arnob-portfoilo/precache-manifest.ed000140470b41fcb635bc702fe5cec3.js"
+  "/arnob-portfoilo/precache-manifest.6685c3584c394b262093f05d424d999a.js"
 );
 
 workbox.clientsClaim();
